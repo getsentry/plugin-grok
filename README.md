@@ -13,8 +13,7 @@ code review with Sentry context, and monitoring configuration.
 ## Install
 
 ```bash
-grok plugin marketplace add getsentry/plugin-grok
-grok plugin install sentry@sentry-plugin-marketplace --trust
+grok plugin install getsentry/plugin-grok --trust
 ```
 
 ## What's included
